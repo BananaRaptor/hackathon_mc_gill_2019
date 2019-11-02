@@ -1,5 +1,6 @@
 from __future__ import absolute_import, division, print_function, unicode_literals
 import os
+import numpy
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
